@@ -13,7 +13,7 @@
 
   main {
     width: auto;
-    margin: 20px 100px;
+    height: 100vh;
   }
 
   .main-section {
@@ -29,6 +29,7 @@
     line-height: 4rem;
     font-weight: 700;
     text-transform: uppercase;
+    width: 100%;
   }
 
   .title-content {
@@ -117,7 +118,6 @@
   .description {
     padding: 20px;
     width: 59%;
-    height: 200px;
   }
 
   .section-title h2 {
