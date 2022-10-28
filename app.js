@@ -24,57 +24,57 @@ menu.addEventListener('click', () => {
 // Speakers
 
 const speakers = [
-    {
-      img: 'assets/images/speaker_01.png',
-      name: 'Yochai Benkler',
-      job: 'Professor at Harvard computer science school',
-      description:  'Have the time to share your thought and options with expects for each topic',
-  
-    },
-    {
-      img: 'assets/images/speaker_02.png',
-      name: 'Yochai Benkler',
-      job: 'Professor at Harvard computer science school',
-      description:  'Have the time to share your thought and options with expects for each topic',
-  
-    },
-    {
-      img: 'assets/images/speaker_03.png',
-      name: 'Yochai Benkler',
-      job: 'Professor at Harvard computer science school',
-      description:  'Have the time to share your thought and options with expects for each topic',
-  
-    },
-    {
-      img: 'assets/images/speaker_04.png',
-      name: 'Yochai Benkler',
-      job: 'Professor at Harvard computer science school',
-      description:  'Have the time to share your thought and options with expects for each topic',
-  
-    },
-    {
-      img: 'assets/images/speaker_05.png',
-      name: 'Yochai Benkler',
-      job: 'Professor at Harvard computer science school',
-      description:  'Have the time to share your thought and options with expects for each topic',
-  
-    },
-    {
-      img: 'assets/images/speaker_06.png',
-      name: 'Yochai Benkler',
-      job: 'Professor at Harvard computer science school',
-      description:  'Have the time to share your thought and options with expects for each topic',
-  
-    },
-  
-  ];
-  
-  const article = document.querySelector('.wrapper');
-  
-  speakers.forEach((speaker, id) => {
-    const speakereCard = document.createElement('div');
-    speakereCard.className = 'speak-card';
-    speakereCard.innerHTML = (`
+  {
+    img: 'assets/images/speaker_01.png',
+    name: 'Yochai Benkler',
+    job: 'Professor at Harvard computer science school',
+    description: 'Have the time to share your thought and options with expects for each topic',
+
+  },
+  {
+    img: 'assets/images/speaker_02.png',
+    name: 'Yochai Benkler',
+    job: 'Professor at Harvard computer science school',
+    description: 'Have the time to share your thought and options with expects for each topic',
+
+  },
+  {
+    img: 'assets/images/speaker_03.png',
+    name: 'Yochai Benkler',
+    job: 'Professor at Harvard computer science school',
+    description: 'Have the time to share your thought and options with expects for each topic',
+
+  },
+  {
+    img: 'assets/images/speaker_04.png',
+    name: 'Yochai Benkler',
+    job: 'Professor at Harvard computer science school',
+    description: 'Have the time to share your thought and options with expects for each topic',
+
+  },
+  {
+    img: 'assets/images/speaker_05.png',
+    name: 'Yochai Benkler',
+    job: 'Professor at Harvard computer science school',
+    description: 'Have the time to share your thought and options with expects for each topic',
+
+  },
+  {
+    img: 'assets/images/speaker_06.png',
+    name: 'Yochai Benkler',
+    job: 'Professor at Harvard computer science school',
+    description: 'Have the time to share your thought and options with expects for each topic',
+
+  },
+
+];
+
+const article = document.querySelector('.wrapper');
+
+speakers.forEach((speaker, id) => {
+  const speakereCard = document.createElement('div');
+  speakereCard.className = 'speak-card';
+  speakereCard.innerHTML = (`
     <div class="speakers">
       <div class="each speaker${id}">
         <img src="${speaker.img}" alt="speaker${id}">
@@ -88,10 +88,8 @@ const speakers = [
     </div>
   
     `);
-    speakereCard.classList.add('speakers-sec');
-    article.appendChild(speakereCard);
-  });
-  
-  
-  // Speakers
-  
+  speakereCard.classList.add('speakers-sec');
+  article.appendChild(speakereCard);
+});
+
+// Speakers
