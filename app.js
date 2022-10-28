@@ -25,42 +25,43 @@ menu.addEventListener('click', () => {
 
 const speakers = [
     {
-      img: 'assets/images/person1.jpg',
+      img: 'assets/images/speaker_01.png',
       name: 'Yochai Benkler',
       job: 'Professor at Harvard computer science school',
       description:  'Have the time to share your thought and options with expects for each topic',
   
     },
     {
-      img: 'assets/images/person2.jpg',
+      img: 'assets/images/speaker_02.png',
       name: 'Yochai Benkler',
       job: 'Professor at Harvard computer science school',
       description:  'Have the time to share your thought and options with expects for each topic',
   
     },
     {
-      img: 'assets/images/person3.jpg',
+      img: 'assets/images/speaker_03.png',
       name: 'Yochai Benkler',
       job: 'Professor at Harvard computer science school',
       description:  'Have the time to share your thought and options with expects for each topic',
   
     },
     {
-      img: 'assets/images/person4.jpg',
+      img: 'assets/images/speaker_04.png',
       name: 'Yochai Benkler',
       job: 'Professor at Harvard computer science school',
       description:  'Have the time to share your thought and options with expects for each topic',
   
     },
     {
-      img: 'assets/images/person5.jpg',
+      img: 'assets/images/speaker_05.png',
       name: 'Yochai Benkler',
       job: 'Professor at Harvard computer science school',
       description:  'Have the time to share your thought and options with expects for each topic',
   
     },
     {
-      img: 'assets/images/person6.jpg',name: 'Yochai Benkler',
+      img: 'assets/images/speaker_06.png',
+      name: 'Yochai Benkler',
       job: 'Professor at Harvard computer science school',
       description:  'Have the time to share your thought and options with expects for each topic',
   

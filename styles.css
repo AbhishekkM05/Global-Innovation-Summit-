@@ -125,7 +125,7 @@ a:hover {
   color: var(--color-red);
 }
 
-#mawazine {
+#gis {
   color: var(--color-red);
   border: 2px solid var(--color-red);
   padding: 5px;
@@ -137,7 +137,7 @@ main {
   flex-direction: column;
   justify-content: center;
   gap: 1rem;
-  background-image: url(../assets/main_big.png);
+  background-image: url(assets/images/main_big.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -164,15 +164,15 @@ main {
   width: 100%;
 }
 
-.head:hover {
-  background-image: url(../Assets/fun.jfif);
+/* .head:hover {
+  background-image: url(assets/images/mobile-bg.png);
   -webkit-text-fill-color: transparent;
   background-size: cover;
   background-clip: unset;
   -webkit-background-clip: text;
   background-position: center;
   background-repeat: no-repeat;
-}
+} */
 
 .title-content {
   margin-top: 1.5rem;
@@ -196,7 +196,7 @@ main {
 }
 
 .main-section {
-  background-image: url(../assets/pattern_bg.png);
+  background-image: url(assets/images/pattern_bg.png);
   background-color: var(--color-black);
   overflow-x: auto;
   padding: 2rem 0;
@@ -383,9 +383,6 @@ main {
   text-align: center;
   padding-bottom: 40px;
   padding-top: 20px;
-}
-
-.partners {
   color: #abaaab;
   margin-left: 10px;
   font-size: 30px;
@@ -409,4 +406,3 @@ main {
   height: 60px;
   margin: 5px;
 }
-  
