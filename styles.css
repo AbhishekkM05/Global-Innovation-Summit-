@@ -138,11 +138,9 @@ main {
   justify-content: center;
   gap: 1rem;
   background-image: url(assets/images/main_big.png);
-  background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  width: 80%;
-  margin: 20px 20px;
+  width: auto;
   padding: 80px 1.9375rem;
 }
 
@@ -173,6 +171,15 @@ main {
   font-weight: 500;
   color: var(--color-darkgrey);
   width: 100%;
+}
+
+.content > p {
+  border: 2px solid white;
+  padding: 10px;
+  margin-top: 10px;
+  font-size: 17px;
+  font-weight: 500;
+  background-color: #f7f7f7;
 }
 
 .event-date {
@@ -305,6 +312,8 @@ main {
   border-top: 2px solid var(--color-white);
   background-color: var(--color-white);
   padding: 2rem 0;
+  padding-left: 0.8rem;
+  padding-right: 0.2rem;
   cursor: pointer;
 }
 
