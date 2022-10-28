@@ -33,36 +33,36 @@ const speakers = [
   },
   {
     img: 'assets/images/speaker_02.png',
-    name: 'Yochai Benkler',
-    job: 'Professor at Harvard computer science school',
+    name: 'John Smith',
+    job: 'Editor at Innovation think tank',
     description: 'Have the time to share your thought and options with expects for each topic',
 
   },
   {
     img: 'assets/images/speaker_03.png',
-    name: 'Yochai Benkler',
-    job: 'Professor at Harvard computer science school',
+    name: 'Su Ki Ming',
+    job: 'Korean Business Leader',
     description: 'Have the time to share your thought and options with expects for each topic',
 
   },
   {
     img: 'assets/images/speaker_04.png',
-    name: 'Yochai Benkler',
-    job: 'Professor at Harvard computer science school',
+    name: 'Allen Ki',
+    job: 'Social Enterprenuer',
     description: 'Have the time to share your thought and options with expects for each topic',
 
   },
   {
     img: 'assets/images/speaker_05.png',
-    name: 'Yochai Benkler',
-    job: 'Professor at Harvard computer science school',
+    name: 'Tim Howard',
+    job: 'Economics resercher at UNICEF',
     description: 'Have the time to share your thought and options with expects for each topic',
 
   },
   {
     img: 'assets/images/speaker_06.png',
-    name: 'Yochai Benkler',
-    job: 'Professor at Harvard computer science school',
+    name: 'David Moth',
+    job: 'CEO Tech Innovation',
     description: 'Have the time to share your thought and options with expects for each topic',
 
   },
