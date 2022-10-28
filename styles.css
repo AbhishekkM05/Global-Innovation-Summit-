@@ -164,16 +164,6 @@ main {
   width: 100%;
 }
 
-/* .head:hover {
-  background-image: url(assets/images/mobile-bg.png);
-  -webkit-text-fill-color: transparent;
-  background-size: cover;
-  background-clip: unset;
-  -webkit-background-clip: text;
-  background-position: center;
-  background-repeat: no-repeat;
-} */
-
 .title-content {
   margin-top: 1.5rem;
 }
