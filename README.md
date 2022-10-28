@@ -2,18 +2,20 @@
 
 # Project Name
 
-> Description the project.
+# Global Innovation Summit
 
+> Description the project.
+This is my firs capstone project for my module1 microverse programm.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML, CSS
+- Javascript
+- Linters 
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://abhishekkm05.github.io/Global-Innovation-Summit-/)
 
 
 ## Getting Started
@@ -24,33 +26,16 @@
 
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+### Clone
+https://github.com/AbhishekkM05/Global-Innovation-Summit-.git
 
 ## Authors
 
-👤 **Author1**
+👤 **Author**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/AbhishekkM05)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/abhishek-kumar-mishra-bb5bb4101/)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
@@ -64,9 +49,11 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Thank You  Microverse for the opportunity.
+Under the [Creative Commons liscense](https://creativecommons.org/licenses/by-nc/4.0/)
+<img width="300" alt="image" src="https://user-images.githubusercontent.com/84629565/181086933-d5bcdb09-da51-40f6-b0f8-a1f191614257.png">
+
+Original design from [Cindy Shin in Behance](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015)
 
 ## 📝 License
 
